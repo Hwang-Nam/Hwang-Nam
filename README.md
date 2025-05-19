@@ -50,11 +50,22 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=RoyalNam&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"
-    height="150"
+  <picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=RoyalNam&show_icons=true&theme=dracula" 
+    media="(prefers-color-scheme: dark)"
+  />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=RoyalNam&show_icons=true&theme=default" 
+    media="(prefers-color-scheme: light)"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=RoyalNam&show_icons=true" 
+    height="150" 
     alt="GitHub Stats"
   />
+</picture>
+
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=RoyalNam&layout=compact&card_width=320&langs_count=6&theme=dracula"
     height="150"
