@@ -109,7 +109,7 @@ A real-time fullstack social media platform built with **Next.js**, **Node.js (E
 <img
   align="right"
   height="150"
-  src="./gif"
+  src="./f.gif"
   alt=""
 />
 
